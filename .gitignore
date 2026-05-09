@@ -37,6 +37,7 @@ backend/backend/node_modules/
 
 # ── Docker ────────────────────────────────────────────────────
 docker-manager/node_modules/
+docker/docker-container-manager/containers/
 
 # ── Misc ──────────────────────────────────────────────────────
 *.tsbuildinfo
